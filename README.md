@@ -1,5 +1,4 @@
 ## haloo agus lapar 👋
-![halo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFxeDE2c2ljbm9jcGJnNWx4MXdwcDR1a2Vob3R2OGw0c2V3d21neCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKA9WE5HGkLi8/giphy.gif)
 
 <!--
 **Varrelian/Varrelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning laravel framwork
+- ![halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVkdG0yaHB0bTlwNGdmeGFkODJodGtpZGZqY29rcHRmY2NocWdsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WmkEhAIyWfpm1vdVcg/giphy.gif)
+
