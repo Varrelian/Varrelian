@@ -1,5 +1,5 @@
 ## haloo agus lapar 👋
-![halo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNvcTliZWY4dmIzcWI0aDhrdmpremg1Mmc4bjVhOHppajl6cHQydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErYqmjKnxCrtQEvYlE/giphy.gif)
+![halo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFxeDE2c2ljbm9jcGJnNWx4MXdwcDR1a2Vob3R2OGw0c2V3d21neCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKA9WE5HGkLi8/giphy.gif)
 
 <!--
 **Varrelian/Varrelian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
