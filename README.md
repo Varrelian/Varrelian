@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning laravel framwork
-![halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVkdG0yaHB0bTlwNGdmeGFkODJodGtpZGZqY29rcHRmY2NocWdsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WmkEhAIyWfpm1vdVcg/giphy.gif)
+![halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlveTh0MHh5MmUwM3pnNW0xcXF5bzA5dWE2Ym5qY2Y0MXhnbGFxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/INb0QlaZKflBQZJOho/giphy.gif)
