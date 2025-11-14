@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVkdG0yaHB0bTlwNGdmeGFkODJodGtpZGZqY29rcHRmY2NocWdsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WmkEhAIyWfpm1vdVcg/giphy.gif)
 - 🌱 I’m currently learning laravel framwork
-- ![halo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVkdG0yaHB0bTlwNGdmeGFkODJodGtpZGZqY29rcHRmY2NocWdsNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WmkEhAIyWfpm1vdVcg/giphy.gif)
 
