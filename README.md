@@ -38,6 +38,17 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+### 🎧 Spotify Now Playing
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
+  </a>
+</p>
+
+### 🎵 Spotify Top Tracks
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api/top?user=31v4lohmmhkysf4z3va2n3hr5noq&count=10&unique=true" />
+</p>
 
 ###
 
