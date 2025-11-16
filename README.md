@@ -55,6 +55,7 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Snake animation" />
+<img src="[![Spotify](https://spotify-np-api.vercel.app/api/top-tracks?uid=31v4lohmmhkysf4z3va2n3hr5noq)](https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq)
+" alt="Snake animation" />
 
 ###
