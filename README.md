@@ -1,3 +1,4 @@
+<h2 align="left">Hi 👋 My name varrelian and I'm a vibecodingers 😎 from SMK pelita nusantara</h2>
 
 ###
 
@@ -5,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Varrelian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varrelian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXgwYmltaTQyN2FjdWJoZnNjaTdnZTNpZTF1a2V2MXM3OWIzb2MxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nxcHhracBUIfLfGzyp/giphy.gif"  />
 
 ###
 
@@ -30,6 +27,10 @@
 
 ###
 
+<img align="right" height="235" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjA1aDBpcWllNWJwOHY1b2pnbTE0eDhqd2UxMm04YTRlZ25sd3BnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MiBjaJYukUyC4/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,3 +47,23 @@
 <img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+###
+
+### 🎧 Spotify Now Playing
+<p align="center">
+  <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq" alt="Spotify Now Playing" width="400" />
+  </a>
+</p>
+
+### 🎵 Spotify Top Tracks
+<p align="center">
+  <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=5" alt="Spotify Top Tracks" width="400" />
+  </a>
+</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Varrelian.Varrelian&"  />
+</div>
