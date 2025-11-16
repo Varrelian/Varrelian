@@ -42,9 +42,8 @@
 
 ### 🎧 Spotify Now Playing
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
-  </a>
+[![Spotify](https://spotify-np-api.vercel.app/api/now-playing?uid=31v4lohmmhkysf4z3va2n3hr5noq)](https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq)
+
 </p>
 
 ### 🎵 Spotify Top Tracks
