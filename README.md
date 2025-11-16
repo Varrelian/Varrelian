@@ -42,8 +42,9 @@
 
 ### 🎧 Spotify Now Playing
 <p align="center">
-[![Spotify](https://spotify-np-api.vercel.app/api/now-playing?uid=31v4lohmmhkysf4z3va2n3hr5noq)](https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq)
-
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
+  </a>
 </p>
 
 ### 🎵 Spotify Top Tracks
@@ -55,7 +56,6 @@
 
 <br clear="both" />
 
-<img src="[![Spotify](https://spotify-np-api.vercel.app/api/top-tracks?uid=31v4lohmmhkysf4z3va2n3hr5noq)](https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq)
-" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Snake animation" />
 
 ###
