@@ -54,10 +54,17 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Varrelian Athaya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Varrelian%20Athaya&count=5&unique=false" alt="Spotify recently played"  />
+### 🎧 Spotify Now Playing
+<p align="center">
+  <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq" alt="Spotify Now Playing" width="400" />
   </a>
-</div>
+</p>
 
+### 🎵 Spotify Top Tracks
+<p align="center">
+  <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=5" alt="Spotify Top Tracks" width="400" />
+  </a>
+</p>
 ###
