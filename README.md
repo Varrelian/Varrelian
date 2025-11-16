@@ -8,6 +8,10 @@
 </div>
 
 ###
+<<<<<<< HEAD
+=======
+
+>>>>>>> b4c1a86eada3b1814c04ceb3478817332117c352
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -60,6 +64,12 @@
 
 ###
 
+<<<<<<< HEAD
+=======
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Varrelian.Varrelian&"  />
+</div>
+>>>>>>> b4c1a86eada3b1814c04ceb3478817332117c352
 
 ###
 
@@ -70,7 +80,17 @@
   </a>
 </p>
 
+<<<<<<< HEAD
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Varrelian.Varrelian&"  />
 </div>
+=======
+### 🎵 Spotify Top Tracks
+<p align="center">
+  <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=5" alt="Spotify Top Tracks" width="400" />
+  </a>
+</p>
+###
+>>>>>>> b4c1a86eada3b1814c04ceb3478817332117c352
