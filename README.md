@@ -42,35 +42,19 @@
 <img align="right" height="230" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" />
 
 ### 🌐 Connect With Me
-
-### 🌐 Connect With Me
-
 <div align="left">
-
-  <a href="https://youtube.com/@varrelian" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.instagram.com/varrelian_athaya?igsh=MWh5eW1nZmFuNXZnbg==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-
-  <a href="https://www.instagram.com/varrelian_athaya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <a href="vathana0730" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-
-  <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" />
+  <a href="varrelianathaya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-
-  <a href="https://discord.com/users/vathana0730" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="mailto:varrelianathaya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 
