@@ -1,5 +1,5 @@
 <center>
-  <h1 style="color:#ff00ff">⚡🚧 MASIH DALAM PROSES — CYBERPUNK EDITION 🚧⚡</h1>
+  <h1 style="color:#ff00ff">⚡🚧 MASIH DALAM PROSES🚧</h1>
 </center>
 
 <h2 align="left" style="color:#00eaff">
@@ -9,7 +9,7 @@
 
 ---
 
-## 🔥 Cyberpunk GitHub Stats
+## 🔥 GitHub Stats
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack — Neon Mode
+## 🛠️ Tech Stack 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 Connect With Me — Cyberpunk Edition ⚡
+## 🌐 Connect With Me  ⚡
 
 <div align="left">
 
@@ -84,14 +84,11 @@
 ---
 
 <br clear="both">
-
-## 🐍 Cyberpunk Snake Animation
-
 <img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" />
 
 ---
 
-## 🎧 Spotify — Neon Player
+## 🎧 Spotify 
 
 <p align="center">
   <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
