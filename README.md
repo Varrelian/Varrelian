@@ -1,47 +1,57 @@
 <center>
-  <h1>🚧 Masih Dalam Proses Pembuatan 🚧</h1>
+  <h1 style="color:#ff00ff">⚡🚧 MASIH DALAM PROSES — CYBERPUNK EDITION 🚧⚡</h1>
 </center>
 
-<h2 align="left">Hi 👋 My name is <strong>Varrelian</strong> and I'm a <strong>Vibe Codingers 😎</strong> from SMK Pelita Nusantara</h2>
+<h2 align="left" style="color:#00eaff">
+  Hi 👋 My name is <strong style="color:#ff2da3">Varrelian</strong> — I'm a 
+  <strong style="color:#ff00ff">Vibe Codingers 😎</strong> from SMK Pelita Nusantara
+</h2>
 
 ---
 
-### 🚀 Github Stats
+## 🔥 Cyberpunk GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varrelian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Varrelian&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varrelian&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&bg_color=0,000000,190033,330066&title_color=ff00ff&text_color=cffaff" height="160" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Varrelian&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0,000000,190033,330066&title_color=00eaff&icon_color=ff00ff&text_color=cffaff" height="160" />
+
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack — Neon Mode
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-  <img width="12" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" />
 </div>
 
 ---
 
-<img align="right" height="230" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" />
+<img align="right" height="240" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" />
 
-### 🌐 Connect With Me — Cyberpunk Edition ⚡
+---
+
+## 🌐 Connect With Me — Cyberpunk Edition ⚡
 
 <div align="left">
 
@@ -71,25 +81,26 @@
 
 </div>
 
-
 ---
 
 <br clear="both">
 
-### 🐍 Snake Animation
-<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Snake animation" />
+## 🐍 Cyberpunk Snake Animation
+
+<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" />
 
 ---
 
-### 🎧 Spotify Now Playing
+## 🎧 Spotify — Neon Player
+
 <p align="center">
   <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq" width="400" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=5&width=400&unique=true" width="400" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Varrelian.Varrelian" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Varrelian.Varrelian&color=ff00ff&text=Visitors&style=for-the-badge" />
 </div>
