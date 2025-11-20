@@ -1,6 +1,5 @@
-<center>
+
   <h1 style="color:#ff00ff">⚡🚧 MASIH DALAM PROSES🚧</h1>
-</center>
 
 <h2 align="left" style="color:#00eaff">
   Hi 👋 My name is <strong style="color:#ff2da3">Varrelian</strong> — I'm a 
