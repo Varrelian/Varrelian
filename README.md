@@ -6,7 +6,7 @@
   <strong style="color:#ff00ff">Vibe Codingers 😎</strong> from SMK Pelita Nusantara
 </h2>
 
----
+
 
 ## 🔥 GitHub Stats
 
@@ -18,7 +18,7 @@
   <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
----
+
 
 ## 🛠️ Tech Stack 
 
@@ -44,11 +44,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" />
 </div>
 
----
+
 
 <img align="right" height="240" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" />
 
----
+
 
 ## 🌐 Connect With Me  ⚡
 
@@ -80,16 +80,7 @@
 
 </div>
 
----
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varrelian/Varrelian/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varrelian/Varrelian/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/pacman-contribution-graph.svg">
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" />
-
----
 
 ## 🎧 Spotify 
 
@@ -100,6 +91,8 @@
 </p>
 
 ---
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Varrelian.Varrelian&color=ff00ff&text=Visitors&style=for-the-badge" />
