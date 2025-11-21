@@ -1,13 +1,13 @@
 <h3 align="center" style="color:#00eaff; margin-bottom: 20 px;">
-  ✨ Hi there! I'm <strong style="color:#ff2da3">Varrelian</strong> ✨
+   Hi there! I'm <strong style="color:#ff2da3">Varrelian</strong> 
 </h3>
 
 <p align="center" style="color:#cffaff; font-size: 18 px; margin-bottom: 30 px;">
   A passionate <strong style="color:#ff00ff">Vibe Coder</strong> from SMK Pelita Nusantara
 </p>
 
-<div align="center" style="margin-bottom: 40px;">
-  <a href="https://youtube.com/@vathana_1945?si=--TtyDLmq57xCLR8" target="blank">
+<div align="center" style="margin-bottom: 40 px;">
+  <a href="https://youtube.com/@vathana_1945?si=--TtyDLmq57xCLR8" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
   </a>
   <img width="15" />
@@ -20,13 +20,13 @@
   </a>
 </div>
 
-<div align="center" style="margin: 40px 0;">
+<div align="center" style="margin: 40 px 0;">
   <img align="right" height="280" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" style="border-radius: 20px;" />
 </div>
 
 ## 🪄 Languages and tools :
 
-<div align="center" style="margin: 30px 0;">
+<div align="center" style="margin: 30 px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
