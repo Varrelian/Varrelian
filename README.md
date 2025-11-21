@@ -85,7 +85,6 @@
 
 
 ## 🎧 Spotify 
-
 <p align="center">
   <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=5&width=400&unique=true" width="400" />
