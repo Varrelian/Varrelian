@@ -80,6 +80,8 @@
 
 </div>
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" />
 
 
 ## 🎧 Spotify 
@@ -91,8 +93,6 @@
 </p>
 
 ---
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Varrelian.Varrelian&color=ff00ff&text=Visitors&style=for-the-badge" />
