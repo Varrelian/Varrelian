@@ -72,7 +72,7 @@
   <img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Snake animation" style="border-radius: 10 px;" />
 </div>
 
-## 👀 Visitors
+##
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Varrelian&label=Profile%20Views&color=ff00ff&style=for-the-badge" alt="Varrelian" />
