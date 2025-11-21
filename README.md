@@ -18,10 +18,6 @@
   <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
-
-
-## 🛠️ Tech Stack 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="10" />
