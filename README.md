@@ -5,6 +5,8 @@
   Hi 👋 My name is <strong style="color:#ff2da3">Varrelian</strong> — I'm a 
   <strong style="color:#ff00ff">Vibe Codingers 😎</strong> from SMK Pelita Nusantara
 </h3>
+
+
 <div align="left">
   <a href="https://youtube.com/@vathana_1945?si=--TtyDLmq57xCLR8" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Neon%20Red?style=for-the-badge&logo=youtube&logoColor=white&color=ff003c&labelColor=7a0030" height="35" width="140" />
@@ -18,6 +20,9 @@
     <img src="https://img.shields.io/badge/Discord-Electric%20Blue?style=for-the-badge&logo=discord&logoColor=white&color=00b3ff&labelColor=003f66" height="35" width="140" />
   </a>
 </div>
+
+
+
 <p>🪄 Languages and tools :</p>
 
 <div align="left">
@@ -43,6 +48,9 @@
 </div>
 <img align="right" height="230" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" />
 
+
+
+
 ## 🔥 GitHub Stats
 
 <div align="center">
@@ -52,6 +60,7 @@
 
   <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
+
 
 
 ## 🎧 Spotify 
