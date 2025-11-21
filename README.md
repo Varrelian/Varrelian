@@ -6,7 +6,7 @@
   <strong style="color:#ff00ff">Vibe Codingers 😎</strong> from SMK Pelita Nusantara
 </h3>
 
-
+<p>🪄 Languages and tools :</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -41,23 +41,12 @@
     <img src="https://img.shields.io/badge/Instagram-Neon%20Pink?style=for-the-badge&logo=instagram&logoColor=white&color=ff2da3&labelColor=7a005c" height="35" />
   </a>
 
-  <a href="https://twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-Neon%20Purple?style=for-the-badge&logo=twitch&logoColor=white&color=9b4dff&labelColor=4a00b5" height="35" />
-  </a>
-
   <a href="https://discord.com/users/vathana0730" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Electric%20Blue?style=for-the-badge&logo=discord&logoColor=white&color=00b3ff&labelColor=003f66" height="35" />
   </a>
-
-  <a href="mailto:varrelianathaya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Neon%20Orange?style=for-the-badge&logo=gmail&logoColor=white&color=ff7b00&labelColor=7a2e00" height="35" />
-  </a>
-
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Neon%20Cyan?style=for-the-badge&logo=linkedin&logoColor=white&color=00eaff&labelColor=005b66" height="35" />
-  </a>
-
+  
 </div>
+
 ## 🔥 GitHub Stats
 
 <div align="center">
