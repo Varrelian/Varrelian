@@ -1,8 +1,8 @@
-<h3 align="center" style="color:#00eaff; margin-bottom: 20px;">
+<h3 align="center" style="color:#00eaff; margin-bottom: 20 px;">
   ✨ Hi there! I'm <strong style="color:#ff2da3">Varrelian</strong> ✨
 </h3>
 
-<p align="center" style="color:#cffaff; font-size: 18px; margin-bottom: 30px;">
+<p align="center" style="color:#cffaff; font-size: 18 px; margin-bottom: 30 px;">
   A passionate <strong style="color:#ff00ff">Vibe Coder</strong> from SMK Pelita Nusantara
 </p>
 
@@ -66,14 +66,14 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=3&width=500&unique=true" width="500" style="border-radius: 15px;" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=3&width=500&unique=true" width="500" style="border-radius: 15 px;" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Snake animation" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Snake animation" style="border-radius: 10 px;" />
 </div>
 
 ## 👀 Visitors
