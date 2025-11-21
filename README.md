@@ -45,7 +45,7 @@
 </div>
 <img align="right" height="230" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" />
 
-## 🌐 Connect With Me  ⚡
+## 🌐 Connect With Me  
 
 <div align="left">
 
