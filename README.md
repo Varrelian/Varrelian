@@ -1,22 +1,12 @@
 
   <h1 style="color:#ff00ff">🚧 MASIH DALAM PROSES🚧</h1>
 
-<h2 align="left" style="color:#00eaff">
+<h3 align="left" style="color:#00eaff">
   Hi 👋 My name is <strong style="color:#ff2da3">Varrelian</strong> — I'm a 
   <strong style="color:#ff00ff">Vibe Codingers 😎</strong> from SMK Pelita Nusantara
-</h2>
+</h3>
 
 
-
-## 🔥 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varrelian&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&bg_color=0,000000,190033,330066&title_color=ff00ff&text_color=cffaff" height="160" />
-
-
-  <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
-</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
@@ -68,6 +58,16 @@
   </a>
 
 </div>
+## 🔥 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varrelian&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&bg_color=0,000000,190033,330066&title_color=ff00ff&text_color=cffaff" height="160" />
+
+
+  <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+</div>
+
 
 ## 🎧 Spotify 
 <p align="center">
