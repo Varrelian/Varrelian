@@ -5,7 +5,19 @@
   Hi 👋 My name is <strong style="color:#ff2da3">Varrelian</strong> — I'm a 
   <strong style="color:#ff00ff">Vibe Codingers 😎</strong> from SMK Pelita Nusantara
 </h3>
+<div align="left">
+  <a href="https://youtube.com/@vathana_1945?si=--TtyDLmq57xCLR8" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Neon%20Red?style=for-the-badge&logo=youtube&logoColor=white&color=ff003c&labelColor=7a0030" height="35" width="140" />
+  </a>
 
+  <a href="https://www.instagram.com/varrelian_athaya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Neon%20Pink?style=for-the-badge&logo=instagram&logoColor=white&color=ff2da3&labelColor=7a005c" height="35" width="140" />
+  </a>
+
+  <a href="https://discord.com/users/vathana0730" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Electric%20Blue?style=for-the-badge&logo=discord&logoColor=white&color=00b3ff&labelColor=003f66" height="35" width="140" />
+  </a>
+</div>
 <p>🪄 Languages and tools :</p>
 
 <div align="left">
@@ -30,20 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" />
 </div>
 <img align="right" height="230" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" />
-
-<div align="left">
-  <a href="https://youtube.com/@vathana_1945?si=--TtyDLmq57xCLR8" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Neon%20Red?style=for-the-badge&logo=youtube&logoColor=white&color=ff003c&labelColor=7a0030" height="35" width="140" />
-  </a>
-
-  <a href="https://www.instagram.com/varrelian_athaya" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Neon%20Pink?style=for-the-badge&logo=instagram&logoColor=white&color=ff2da3&labelColor=7a005c" height="35" width="140" />
-  </a>
-
-  <a href="https://discord.com/users/vathana0730" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Electric%20Blue?style=for-the-badge&logo=discord&logoColor=white&color=00b3ff&labelColor=003f66" height="35" width="140" />
-  </a>
-</div>
 
 ## 🔥 GitHub Stats
 
