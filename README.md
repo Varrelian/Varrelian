@@ -24,7 +24,7 @@
   <img align="right" height="280" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" style="border-radius: 20px;" />
 </div>
 
-## 🛠️ Tech Stack
+## 🪄 Languages and tools :
 
 <div align="center" style="margin: 30px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
