@@ -1,5 +1,5 @@
 
-  <h1 style="color:#ff00ff">⚡🚧 MASIH DALAM PROSES🚧</h1>
+  <h1 style="color:#ff00ff">🚧 MASIH DALAM PROSES🚧</h1>
 
 <h2 align="left" style="color:#00eaff">
   Hi 👋 My name is <strong style="color:#ff2da3">Varrelian</strong> — I'm a 
@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varrelian&layout=compact&langs_count=5&theme=tokyonight&hide_border=false&bg_color=0,000000,190033,330066&title_color=ff00ff&text_color=cffaff" height="160" />
 
 
-  <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
 ---
@@ -33,9 +33,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
-  <img width="10" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
