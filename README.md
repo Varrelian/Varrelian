@@ -7,7 +7,7 @@
 </p>
 
 <div align="center" style="margin-bottom: 40px;">
-  <a href="https://youtube.com/@vathana_1945?si=--TtyDLmq57xCLR8" target="_blank">
+  <a href="https://youtube.com/@vathana_1945?si=--TtyDLmq57xCLR8" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
   </a>
   <img width="15" />
