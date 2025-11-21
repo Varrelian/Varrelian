@@ -54,12 +54,9 @@
 <div align="center">
   <a href="https://github.com/Varrelian">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Varrelian&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00eaff&text_color=cffaff" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varrelian&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=cffaff" />
+    <img src="https://streak-stats.demolab.com?user=Varrelian&theme=radical&hide_border=true&background=0D1117&dates=00EAFF&ring=FF00FF&fire=FF2DA3&currStreakLabel=CFFAFF" height="180" />
+     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varrelian&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=cffaff" />
   </a>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://streak-stats.demolab.com?user=Varrelian&theme=radical&hide_border=true&background=0D1117&dates=00EAFF&ring=FF00FF&fire=FF2DA3&currStreakLabel=CFFAFF" height="180" />
 </div>
 
 ## 🎵 Currently Listening
