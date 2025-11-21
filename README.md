@@ -16,6 +16,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Varrelian&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0,000000,190033,330066&title_color=00eaff&icon_color=ff00ff&text_color=cffaff" height="160" />
 
+  <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ---
@@ -35,6 +36,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
   <img width="10" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
