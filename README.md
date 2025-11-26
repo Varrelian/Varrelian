@@ -1,5 +1,5 @@
 <h3 align="center" style="color:#00eaff; margin-bottom: 20 px;">
-   Hi there! I'm <strong style="color:#ff2da3">Varrelian</strong> 
+   Hi there! I'm <strong style="color:#ff2da3">varrelian</strong> 
 </h3>
 
 <p align="center" style="color:#cffaff; font-size: 18 px; margin-bottom: 30 px;">
