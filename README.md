@@ -1,6 +1,6 @@
 <h3 align="center" style="color:#00eaff; margin-bottom: 20 px;">
    Hi there! I'm <strong style="color:#ff2da3">varrelian</strong> 
-</h3>
+</h3> 
   
 <p align="center" style="color:#cffaff; font-size: 18 px; margin-bottom: 30 px;">
   A passionate <strong style="color:#ff00ff">Vibe Coder</strong> from SMK Pelita Nusantara 
