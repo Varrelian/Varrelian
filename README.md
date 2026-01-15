@@ -1,46 +1,86 @@
-<h2 align="left">My name is Nisa and I'm a  Ui/Ux Designer from Konoha</h2>
+<h3 align="center" style="color:#00eaff; margin-bottom: 20 px;">
+   Hi there! I'm <strong style="color:#ff2da3">varrelian</strong> 
+</h3> 
+  
+<p align="center" style="color:#cffaff; font-size: 18 px; margin-bottom: 30 px;">
+  A passionate <strong style="color:#ff00ff">Vibe Coder</strong> from SMK Pelita Nusantara 
+</p> 
+ 
+<div align="center" style="margin-bottom: 40 px;">
+  <a href="https://youtube.com/@vathana_1945?si=--TtyDLmq57xCLR8" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40" />
+  </a>
+  <img width="15" />
+  <a href="https://www.instagram.com/varrelian_athaya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
+  </a>
+  <img width="15" />
+  <a href="https://discord.com/users/vathana0730" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" />
+  </a>
+</div>
 
-###
+<div align="center" style="margin: 40 px 0;">
+  <img align="right" height="280" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" style="border-radius: 20px;" />
+</div>
+
+## 🪄 Languages and tools :
+
+<div align="center" style="margin: 30 px 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" title="Laravel" />
+  <br/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" title="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" title="Canva" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" title="Unreal Engine" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" title="Godot" />
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hairunnis&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <a href="https://github.com/Varrelian">
+    <img height="165" src="https://streak-stats.demolab.com?user=Varrelian&theme=radical&hide_border=true&background=0D1117&dates=00EAFF&ring=FF00FF&fire=FF2DA3&currStreakLabel=CFFAFF" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varrelian&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=cffaff" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varrelian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varrelian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Varrelian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Varrelian&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varrelian&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+## 🎵 Currently Listening
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI0MGh0aGdhcTZybjYzMWJleGV0NTE4YmIxZGZybjZ5b2lpbmlzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/92YG8KKSjYhMc/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+<div align="center">
+  <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=3&width=500&unique=true" width="500" style="border-radius: 15 px;" />
+  </a>
 </div>
 
-###
+<br/>
 
-<div align="left">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Snake animation" style="border-radius: 10 px;" />
 </div>
 
-###
+##
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hairunnis/hairunnis/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hairunnis/hairunnis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hairunnis/hairunnis/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hairunnis/hairunnis/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varrelian&label=Profile%20Views&color=ff00ff&style=for-the-badge" alt="Varrelian" />
+</div>
