@@ -51,12 +51,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/Varrelian">
-    <img height="165" src="https://streak-stats.demolab.com?user=Varrelian&theme=radical&hide_border=true&background=0D1117&dates=00EAFF&ring=FF00FF&fire=FF2DA3&currStreakLabel=CFFAFF" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varrelian&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=cffaff" />
-  </a>
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Varrelian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Varrelian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
