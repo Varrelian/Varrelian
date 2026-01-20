@@ -20,9 +20,7 @@
   </a>
 </div>
 
-<div align="center" style="margin: 40 px 0;">
-  <img align="right" height="280" src="https://media.giphy.com/media/MiBjaJYukUyC4/giphy.gif" style="border-radius: 20px;" />
-</div>
+
 
 ## 🪄 Languages and tools :
 
