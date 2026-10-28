@@ -1,94 +1,89 @@
 
-<h1 align="center">
-  Hi there! I'm <span style="color:#ff2da3">Varrelian</span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anJudThic2k4eDBsdTF4bjk1ejZia3N2aGdhZWRzNGd5NzcwcHhkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yZYdkuQsRp8ixIVJQu/giphy.gif" width="65" alt="Gift animation" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-  A passionate <span style="color:#ff00ff">Vibe Coder</span> from SMK Pelita Nusantara
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B3D,100:7B2FF7&height=180&section=header&text=VARRELIAN&fontSize=48&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descSize=14&descColor=FFFFFF&descAlignY=60" width="100%" alt="Varrelian banner" />
 
-<p align="center">
-  <a href="https://youtube.com/@vathana_1945" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/varrelian_athaya" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/vathana0730" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+# Hi there! I'm Varrelian
+### <span>Vibe Coder</span> • Student at SMK Pelita Nusantara
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anJudThic2k4eDBsdTF4bjk1ejZia3N2aGdhZWRzNGd5NzcwcHhkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yZYdkuQsRp8ixIVJQu/giphy.gif" width="90" alt="Gift GIF" />
+
+<br/>
+
+<a href="https://youtube.com/@vathana_1945"><img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/varrelian_athaya"><img src="https://img.shields.io/badge/INSTAGRAM-DB2777?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.com/users/vathana0730"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://github.com/Varrelian"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
+
+</div>
 
 ---
 
-## Languages and Tools
+## <img src="https://img.shields.io/badge/01-TECH%20STACK-00E5FF?style=flat-square" /> Languages & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="Laravel" />
-  <br /><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" alt="Unreal Engine" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="Godot" />
-</p>
+<div align="center">
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel&theme=dark" alt="Development tools" />
+
+### Design & Game Development
+
+<img src="https://skillicons.dev/icons?i=figma,canva,unreal,godot&theme=dark" alt="Design and game development tools" />
+
+</div>
 
 ---
 
-## GitHub Analytics
+## <img src="https://img.shields.io/badge/02-GITHUB%20STATS-9D4EDD?style=flat-square" /> GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Varrelian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varrelian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Varrelian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/Varrelian">
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=Varrelian&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2DA3&text_color=C9D1D9&ring_color=9D4EDD" alt="GitHub stats" />
+</a>
+<a href="https://github.com/Varrelian">
+<img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varrelian&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" />
+</a>
 
----
+<br/>
 
-## Currently Listening
+<img width="70%" src="https://streak-stats.demolab.com?user=Varrelian&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF2DA3&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub streak" />
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v4lohmmhkysf4z3va2n3hr5noq&count=3" width="500" alt="Recently Played on Spotify" />
-  </a>
-</p>
+</div>
 
 ---
 
-## Contribution Snake
+## <img src="https://img.shields.io/badge/03-NOW%20PLAYING-1DB954?style=flat-square" /> Currently Listening
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" />
-    <img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake.svg" alt="Contribution Snake Animation" />
-  </picture>
-</p>
+<div align="center">
+
+<a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
+<img width="80%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=false&bar_color=00E5FF&bar_color_cover=false" alt="Spotify player" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varrelian&label=PROFILE%20VIEWS&color=ff00ff&style=for-the-badge" alt="Profile Views" />
-</p>
+## <img src="https://img.shields.io/badge/04-CONTRIBUTIONS-FF2DA3?style=flat-square" /> Contribution Snake
 
-<p align="center">
-  <i>Building ideas into reality, one line of code at a time.</i>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Varrelian&label=PROFILE%20VIEWS&color=9D4EDD&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+### <span>Code. Create. Repeat.</span>
+
+<sub>Designed with curiosity and a little bit of caffeine.</sub>
+
+</div>
