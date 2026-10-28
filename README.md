@@ -1,58 +1,74 @@
-<h1 align="center">
-  <span>Hi, I'm Varrelian</span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anJudThic2k4eDBsdTF4bjk1ejZia3N2aGdhZWRzNGd5NzcwcHhkYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yZYdkuQsRp8ixIVJQu/giphy.gif" width="96" alt="Gift" />
-</h1>
+<div align="center">
+  <img src="Chillguy.gif" alt="Chillguy" />
+</div>
 
-<p align="center">
-  <samp>Vibe Coder · SMK Pelita Nusantara</samp>
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/@vathana_1945"><img src="https://img.shields.io/badge/YouTube-0D1117?style=flat-square&logo=youtube&logoColor=FF0033" /></a>
-  <a href="https://www.instagram.com/varrelian_athaya"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-  <a href="https://discord.com/users/vathana0730"><img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=7289DA" /></a>
-  <a href="https://github.com/Varrelian"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00E5FF" /></a>
-</p>
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,laravel,figma,canva,unreal,godot&theme=dark" alt="Tech stack" />
-</p>
-
-<h2 align="center">GitHub Statistics</h2>
+###
 
 <p align="center">
   <a href="https://github.com/Varrelian">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varrelian&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2DA3&text_color=C9D1D9" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/Varrelian">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varrelian&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&width=435&lines=Vibe+Coder!;SMK+Pelita+Nusantara!;Always+learning+new+things!" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  <img width="64%" src="https://streak-stats.demolab.com?user=Varrelian&hide_border=true&background=0D1117&ring=00E5FF&fire=FF2DA3&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub streak" />
-</p>
+###
 
-<h2 align="center">Currently Listening</h2>
+<h2 align="left">🎉 About Me:</h2>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31v4lohmmhkysf4z3va2n3hr5noq">
-    <img width="64%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&bar_color=00E5FF&bar_color_cover=false" alt="Spotify recently played" />
+###
+
+<h3 align="center">I'm Varrelian from Indonesia</h3>
+
+###
+
+<h4 align="left">- 🔦 I'm a student of SMK Pelita Nusantara<br>- 📚 Currently a beginner learning game dev & web backend.<br>- 🔭 I'm currently learning PHP/Laravel & C# Unity<br>- 🕹️ I only use Unity for now.</h4>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/vathana0730" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=ffffff&labelColor=&style=for-the-badge" height="24" alt="discord logo" />
   </a>
-</p>
+  <a href="https://youtube.com/@vathana_1945" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF1111&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/varrelian_athaya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo" />
+  </a>
+  <a href="https://github.com/Varrelian" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0D1117&logoColor=00E5FF&labelColor=&style=for-the-badge" height="24" alt="github logo" />
+  </a>
+</div>
 
-<h2 align="center">Contributions</h2>
+###
 
-<p align="center">
-  <img width="88%" src="https://raw.githubusercontent.com/Varrelian/Varrelian/output/snake-dark.svg" alt="Contribution snake" />
-</p>
+<h3 align="left">🧨 Languages and tools:</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varrelian&label=PROFILE%20VIEWS&color=00E5FF&style=flat-square" alt="Profile views" />
-</p>
+###
 
-<p align="center">
-  <sub>Building ideas into reality, one line at a time.</sub>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="canva logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo" />
+</div>
+
+<div align="center">
+  <img height="200" src="Midori.gif" alt="Midori" />
+</div>
+
+<h3 align="center">また会いましょう 👋</h3>
