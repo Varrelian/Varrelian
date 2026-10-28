@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="Chillguy.gif" alt="Chillguy" />
+  <img src="Cat Think GIF by MichaelBobinger.gif
+" alt="Cy" />
 </div>
 
 ###
