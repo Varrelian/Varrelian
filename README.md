@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Cat Think GIF by MichaelBobinger.gif" alt="gip" />
+  <img src="Chillguy.gif" alt="Chillguy" />
 </div>
 
 ###
@@ -66,6 +66,20 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo" />
 </div>
+
+###
+
+<h3 align="left">🎧 Currently Listening:</h3>
+
+###
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v4lohmmhkysf4z3va2n3hr5noq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true" alt="Spotify recently played" />
+  </a>
+</div>
+
+###
 
 <div align="center">
   <img height="200" src="Midori.gif" alt="Midori" />
