@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThwdWRza3dtZG10bDJyaWRzODZpdGg0Nnk2Zjk1b2w3a2Vjd3o0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MMquV2oInK40V86Q7g/giphy.gif" alt="GIF" />
+  <img src="Fire Kitten GIF.gif" alt="GIF" />
 </div>
 
 <br>
